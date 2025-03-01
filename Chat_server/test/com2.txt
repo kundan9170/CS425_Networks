@@ -1,0 +1,9 @@
+bob
+qwerty456
+/msg alice Yes, I've read it. Ready for the meeting!\n
+/msg charlie I am here, ready to discuss!\n
+/join_group meeting_team\n
+/group_msg meeting_team Hey everyone, I'm joining now. Let's begin!\n
+/leave_group meeting_team\n
+/msg eve Sorry, I had to leave early. Can we catch up later?\n
+/exit

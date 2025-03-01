@@ -1,0 +1,10 @@
+alice
+password123
+/msg bob Hey Bob, have you read the agenda for today's meeting?\n
+/msg charlie Are you joining the meeting today?\n
+/create_group meeting_team\n
+/join_group meeting_team\n
+/group_msg meeting_team Let's all gather for the meeting now, please!\n
+/group_msg meeting_team Charlie, can you lead the discussion on the project update?\n
+/list_group_members meeting_team\n
+/exit

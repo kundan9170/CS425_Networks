@@ -1,0 +1,9 @@
+david
+helloWorld!
+/msg bob Hey Bob, are you joining the meeting today?
+/create_group meeting_team
+/join_group meeting_team
+/group_msg meeting_team I have some insights to share during the meeting.
+/list_group_members meeting_team
+/list_all_groups
+/exit

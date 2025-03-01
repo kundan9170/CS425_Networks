@@ -1,0 +1,8 @@
+charlie
+secure789
+/broadcast Attention everyone, the meeting is about to start. Please join the group!
+/msg alice I’m in the meeting. I’ll handle the updates section.
+/group_msg meeting_team Here’s the project update we need to discuss today.
+/list_all_members
+/list_all_groups
+/leave_group meeting_team

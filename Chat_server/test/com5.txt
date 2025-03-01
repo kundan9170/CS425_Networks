@@ -1,0 +1,9 @@
+eve
+trustno1
+/msg alice I’m joining the meeting now, sorry for the delay.
+/join_group meeting_team
+/group_msg meeting_team I have some notes on the agenda that I’ll share with everyone.
+/list_group_members meeting_team
+/broadcast Please make sure everyone has joined the meeting!
+/list_all_members
+/exit
